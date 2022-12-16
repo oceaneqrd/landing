@@ -1,0 +1,33 @@
+.card{
+	padding: 30px;
+	padding-bottom: 10px;
+	box-shadow: 0px 0px 20px rgb(0 0 0 / 8%);
+	border-radius: 6px;
+	margin: 20px 30px;
+	display: inline-block;}
+
+.card img {
+	width: 200px;
+	border-radius: 6px;}
+
+.card h4{
+	flex-grow: 1;
+	font-size: 15px;
+	text-align: center;
+	line-height: 0.1;}
+
+.card p{
+	text-align: justify;
+	padding-left: 70px;}
+
+#presentation{
+	display: flex;
+	padding: 20px;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: none;
+	border-radius: none;
+	margin: 20px 0px;}
+
+#photo-card{
+	width: 150px;}
